@@ -21,7 +21,21 @@
 ## Social Media Analysis Bot
 - Crafted a chatbot capable of ingesting social media data.
 - Performs statistical and sentiment analysis on the gathered data for insightful results.
-- It can produce graphs and plots based on statistical analysis. 
+- It can produce graphs and plots based on statistical analysis.
+
+## Professional Development
+
+### Oracle Digital Assistant Cloud Service Course
+- **Skills Acquired:** Developed proficiency in building and deploying intelligent digital assistants using Oracle Digital Assistant Cloud Service.
+- **Key Competencies:**
+  - Conversational AI Best Practices
+  - Robust Training Model Creation
+  - Visual Flow Design for Intuitive Conversations
+  - Backend Systems Integration
+  - Channel Management for User Accessibility
+  - Multi-Lingual Digital Assistant Development
+- **Outcome:** Equipped with the ability to create and manage intelligent digital assistants, ensuring effective user interactions and integration with diverse platforms.
+
 ---
 
 *Feel free to reach out for collaboration or further details.*
